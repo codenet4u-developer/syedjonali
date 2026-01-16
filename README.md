@@ -6,4 +6,4 @@
 🌱 Currently exploring Python, C++, and Web Development  
 🚀 Aspiring Software Developer  
 
-📫 Connect with me: [LinkedIn]() | [Email](syedjonali0921@gmail.com)
+📫 Connect with me: [LinkedIn](in/syed-jon-ali-shah-44b342251) | [Email](syedjonali0921@gmail.com)
