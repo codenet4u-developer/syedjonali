@@ -1,9 +1,13 @@
-# syedjonali
-# Hi, I'm Syed Jon Ali 👋
+ Hi 👋 I'm Syed Jon Ali Shah
 
 🎓 BS Software Engineering Student  
-💻 Learning Programming & Problem Solving  
-🌱 Currently exploring Python, C++, and Web Development  
-🚀 Aspiring Software Developer  
+💻 Learning programming and software development fundamentals  
+🧠 Interested in problem-solving and logical thinking  
 
-📫 Connect with me: [LinkedIn](in/syed-jon-ali-shah-44b342251) | [Email](syedjonali0921@gmail.com)
+📌 Currently focusing on:
+- Programming basics
+- Core computer science concepts
+- Improving coding skills step by step
+
+🚀 Learning today to build tomorrow.
+
